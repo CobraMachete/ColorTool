@@ -1,0 +1,2236 @@
+[
+    {
+        "teamid": 221,
+        "globalteamid": 50000221,
+        "name": "Air Force Falcons",
+        "shortdisplayname": "AIR",
+        "schoolfullname": "United States Air Force Academy",
+        "mascot": "Falcons",
+        "school": "Air Force Academy",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "AIR",
+        "clubcode": "AF",
+        "hex_color": [
+            "0061AA",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 177,
+        "globalteamid": 50000177,
+        "name": "Akron Zips",
+        "shortdisplayname": "AKRON",
+        "schoolfullname": "University of Akron",
+        "mascot": "Zips",
+        "school": "Akron",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "AKR",
+        "clubcode": "ZIP",
+        "hex_color": [
+            "000E41",
+            "C29C41",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 275,
+        "globalteamid": 50000275,
+        "name": "Alabama Crimson Tide",
+        "shortdisplayname": "ALA",
+        "schoolfullname": "University of Alabama",
+        "mascot": "Crimson Tide",
+        "school": "Alabama",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "AL",
+        "clubcode": "ALA",
+        "hex_color": [
+            "A80532",
+            "FFFFFF",
+            "CACCCE"
+        ]
+    },
+    {
+        "teamid": 134,
+        "globalteamid": 50000134,
+        "name": "UAB Blazers",
+        "shortdisplayname": "UAB",
+        "schoolfullname": "University of Alabama-Birmingham",
+        "mascot": "Blazers",
+        "school": "Alabama-Birmingham",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "UAB",
+        "clubcode": "ALA",
+        "hex_color": [
+            "054338",
+            "040504",
+            "FFFFFF",
+            "E7BD05"
+        ]
+    },
+    {
+        "teamid": 255,
+        "globalteamid": 50000255,
+        "name": "Arizona State Sun Devils",
+        "shortdisplayname": "ARZST",
+        "schoolfullname": "Arizona State University",
+        "mascot": "Sun Devils",
+        "school": "Arizona State",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "ASU",
+        "clubcode": "ARZ",
+        "hex_color": [
+            "96203D",
+            "FEC927",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 247,
+        "globalteamid": 50000247,
+        "name": "Arizona Wildcats",
+        "shortdisplayname": "ARZ",
+        "schoolfullname": "University of Arizona",
+        "mascot": "Wildcats",
+        "school": "Arizona",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "AZ",
+        "clubcode": "ARZ",
+        "hex_color": [
+            "003559",
+            "BB003A",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 276,
+        "globalteamid": 50000276,
+        "name": "Arkansas Razorbacks",
+        "shortdisplayname": "ARK",
+        "schoolfullname": "University of Arkansas",
+        "mascot": "Razorbacks",
+        "school": "Arkansas",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "AR",
+        "clubcode": "ARK",
+        "hex_color": [
+            "CD1041",
+            "231F20",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 327,
+        "globalteamid": 50000327,
+        "name": "Arkansas State Red Wolves",
+        "shortdisplayname": "ARKST",
+        "schoolfullname": "Arkansas State University",
+        "mascot": "Red Wolves",
+        "school": "Arkansas State",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "ASU",
+        "clubcode": "ARK",
+        "hex_color": [
+            "ED1B2E",
+            "FFFFFF",
+            "231F20",
+            "C8C7C7"
+        ]
+    },
+    {
+        "teamid": 263,
+        "globalteamid": 50000263,
+        "name": "Army Black Knights",
+        "shortdisplayname": "ARMY",
+        "schoolfullname": "United States Military Academy",
+        "mascot": "Black Knights",
+        "school": "Army",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "ARM",
+        "clubcode": "ARY",
+        "hex_color": [
+            "D19D00",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 279,
+        "globalteamid": 50000279,
+        "name": "Auburn Tigers",
+        "shortdisplayname": "AUBRN",
+        "schoolfullname": "Auburn University",
+        "mascot": "Tigers",
+        "school": "Auburn",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "AUB",
+        "clubcode": "AU",
+        "hex_color": [
+            "172240",
+            "FE3300",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 184,
+        "globalteamid": 50000184,
+        "name": "Ball State Cardinals",
+        "shortdisplayname": "BALLST",
+        "schoolfullname": "Ball State University",
+        "mascot": "Cardinals",
+        "school": "Ball State",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "BAL",
+        "clubcode": "BSU",
+        "hex_color": [
+            "DA0000",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 108,
+        "globalteamid": 50000108,
+        "name": "Baylor Bears",
+        "shortdisplayname": "BAYL",
+        "schoolfullname": "Baylor University",
+        "mascot": "Bears",
+        "school": "Baylor",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "BAY",
+        "clubcode": "BU",
+        "hex_color": [
+            "008649",
+            "FFC227",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 215,
+        "globalteamid": 50000215,
+        "name": "Boise State Broncos",
+        "shortdisplayname": "BOISE",
+        "schoolfullname": "Boise State University",
+        "mascot": "Broncos",
+        "school": "Boise State",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "BOI",
+        "clubcode": "BSU",
+        "hex_color": [
+            "2D4492",
+            "F27E34",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 35,
+        "globalteamid": 50000035,
+        "name": "Boston College Eagles",
+        "shortdisplayname": "BOSCOL",
+        "schoolfullname": "Boston College",
+        "mascot": "Eagles",
+        "school": "Boston College",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "BC",
+        "clubcode": "BOS",
+        "hex_color": [
+            "821E1E",
+            "000000",
+            "EEE8B7",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 181,
+        "globalteamid": 50000181,
+        "name": "Bowling Green Falcons",
+        "shortdisplayname": "BOWLGR",
+        "schoolfullname": "Bowling Green State University",
+        "mascot": "Falcons",
+        "school": "Bowling Green",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "BG",
+        "clubcode": "BGS",
+        "hex_color": [
+            "4E2400",
+            "F5793F",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 336,
+        "globalteamid": 50000336,
+        "name": "BYU Cougars",
+        "shortdisplayname": "BYU",
+        "schoolfullname": "Brigham Young University",
+        "mascot": "Cougars",
+        "school": "Brigham Young",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "BYU",
+        "clubcode": "BY",
+        "hex_color": [
+            "002E5D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 179,
+        "globalteamid": 50000179,
+        "name": "Buffalo Bulls",
+        "shortdisplayname": "BUF",
+        "schoolfullname": "University at Buffalo",
+        "mascot": "Bulls",
+        "school": "Buffalo",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "BUF",
+        "clubcode": "UB",
+        "hex_color": [
+            "0068B4",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 251,
+        "globalteamid": 50000251,
+        "name": "California Golden Bears",
+        "shortdisplayname": "CAL",
+        "schoolfullname": "University of California-Berkeley",
+        "mascot": "Golden Bears",
+        "school": "California-Berkeley",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "UCB",
+        "clubcode": "CAL",
+        "hex_color": [
+            "003768",
+            "FFDE30",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 253,
+        "globalteamid": 50000253,
+        "name": "UCLA Bruins",
+        "shortdisplayname": "UCLA",
+        "schoolfullname": "University of California-Los Angeles",
+        "mascot": "Bruins",
+        "school": "California-Los Angeles",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "CLA",
+        "clubcode": "UCL",
+        "hex_color": [
+            "005C8E",
+            "FFB325",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 8,
+        "globalteamid": 50000008,
+        "name": "UCF Knights",
+        "shortdisplayname": "UCF",
+        "schoolfullname": "University of Central Florida",
+        "mascot": "Knights",
+        "school": "Central Florida",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "UCF",
+        "clubcode": "CF",
+        "hex_color": [
+            "231F20",
+            "B4985A",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 185,
+        "globalteamid": 50000185,
+        "name": "Central Michigan Chippewas",
+        "shortdisplayname": "CMICH",
+        "schoolfullname": "Central Michigan University",
+        "mascot": "Chippewas",
+        "school": "Central Michigan",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "CMU",
+        "clubcode": "CEN",
+        "hex_color": [
+            "780006",
+            "FFFFFF",
+            "E2A253"
+        ]
+    },
+    {
+        "teamid": 4,
+        "globalteamid": 50000004,
+        "name": "Cincinnati Bearcats",
+        "shortdisplayname": "CIN",
+        "schoolfullname": "University of Cincinnati",
+        "mascot": "Bearcats",
+        "school": "Cincinnati",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "CIN",
+        "clubcode": "UC",
+        "hex_color": [
+            "000000",
+            "FD0026",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 27,
+        "globalteamid": 50000027,
+        "name": "Clemson Tigers",
+        "shortdisplayname": "CLMSN",
+        "schoolfullname": "Clemson University",
+        "mascot": "Tigers",
+        "school": "Clemson",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "CLM",
+        "clubcode": "CLE",
+        "hex_color": [
+            "F06014",
+            "FFFFFF",
+            "441F6F"
+        ]
+    },
+    {
+        "teamid": 250,
+        "globalteamid": 50000250,
+        "name": "Colorado Buffaloes",
+        "shortdisplayname": "COL",
+        "schoolfullname": "University of Colorado",
+        "mascot": "Buffaloes",
+        "school": "Colorado",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "CO",
+        "clubcode": "COL",
+        "hex_color": [
+            "D9C994",
+            "231F20",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 217,
+        "globalteamid": 50000217,
+        "name": "Colorado State Rams",
+        "shortdisplayname": "COLST",
+        "schoolfullname": "Colorado State University",
+        "mascot": "Rams",
+        "school": "Colorado State",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "CSU",
+        "clubcode": "COL",
+        "hex_color": [
+            "008C75",
+            "FFFFFF",
+            "000000",
+            "F8E793"
+        ]
+    },
+    {
+        "teamid": 3,
+        "globalteamid": 50000003,
+        "name": "UConn Huskies",
+        "shortdisplayname": "UCONN",
+        "schoolfullname": "University of Connecticut",
+        "mascot": "Huskies",
+        "school": "Connecticut",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "CO",
+        "clubcode": "CND",
+        "hex_color": [
+            "000E2F",
+            "FFFFFF",
+            "7C878E"
+        ]
+    },
+    {
+        "teamid": 26,
+        "globalteamid": 50000026,
+        "name": "Duke Blue Devils",
+        "shortdisplayname": "DUKE",
+        "schoolfullname": "Duke University",
+        "mascot": "Blue Devils",
+        "school": "Duke",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "DUK",
+        "clubcode": "DU",
+        "hex_color": [
+            "004C7D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 9,
+        "globalteamid": 50000009,
+        "name": "East Carolina Pirates",
+        "shortdisplayname": "ECAR",
+        "schoolfullname": "East Carolina University",
+        "mascot": "Pirates",
+        "school": "East Carolina",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "ECU",
+        "clubcode": "EC",
+        "hex_color": [
+            "4A1F68",
+            "FFCE28",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 187,
+        "globalteamid": 50000187,
+        "name": "Eastern Michigan Eagles",
+        "shortdisplayname": "EMICH",
+        "schoolfullname": "Eastern Michigan University",
+        "mascot": "Eagles",
+        "school": "Eastern Michigan",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "EMU",
+        "clubcode": "EM",
+        "hex_color": [
+            "0B5F24",
+            "FFFFFF",
+            "7F7F7F"
+        ]
+    },
+    {
+        "teamid": 145,
+        "globalteamid": 50000145,
+        "name": "Florida Atlantic Owls",
+        "shortdisplayname": "FLATL",
+        "schoolfullname": "Florida Atlantic University",
+        "mascot": "Owls",
+        "school": "Florida Atlantic",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "FAU",
+        "clubcode": "FL",
+        "hex_color": [
+            "004B85",
+            "FFFFFF",
+            "CD1041"
+        ]
+    },
+    {
+        "teamid": 271,
+        "globalteamid": 50000271,
+        "name": "Florida Gators",
+        "shortdisplayname": "FL",
+        "schoolfullname": "University of Florida",
+        "mascot": "Gators",
+        "school": "Florida",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "FL",
+        "clubcode": "FLO",
+        "hex_color": [
+            "2139CE",
+            "FF4208",
+            "FFFFFF",
+            "39734A"
+        ]
+    },
+    {
+        "teamid": 140,
+        "globalteamid": 50000140,
+        "name": "Florida International Panthers",
+        "shortdisplayname": "FLINT",
+        "schoolfullname": "Florida International University",
+        "mascot": "Golden Panthers",
+        "school": "Florida International",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "FIU",
+        "clubcode": "FL",
+        "hex_color": [
+            "081E3F",
+            "B6862C"
+        ]
+    },
+    {
+        "teamid": 29,
+        "globalteamid": 50000029,
+        "name": "Florida State Seminoles",
+        "shortdisplayname": "FLST",
+        "schoolfullname": "Florida State University",
+        "mascot": "Seminoles",
+        "school": "Florida State",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "FSU",
+        "clubcode": "FL",
+        "hex_color": [
+            "900028",
+            "A8936B",
+            "231F20",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 213,
+        "globalteamid": 50000213,
+        "name": "Fresno State Bulldogs",
+        "shortdisplayname": "FREST",
+        "schoolfullname": "Fresno State University",
+        "mascot": "Bulldogs",
+        "school": "Fresno State",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "FSU",
+        "clubcode": "FRE",
+        "hex_color": [
+            "00427A",
+            "E32F38",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 272,
+        "globalteamid": 50000272,
+        "name": "Georgia Bulldogs",
+        "shortdisplayname": "GA",
+        "schoolfullname": "University of Georgia",
+        "mascot": "Bulldogs",
+        "school": "Georgia",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "GA",
+        "clubcode": "GEO",
+        "hex_color": [
+            "A0000B",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 32,
+        "globalteamid": 50000032,
+        "name": "Georgia Tech Yellow Jackets",
+        "shortdisplayname": "GTECH",
+        "schoolfullname": "Georgia Institute of Technology",
+        "mascot": "Yellow Jackets",
+        "school": "Georgia Tech",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "GIT",
+        "clubcode": "GA",
+        "hex_color": [
+            "160A06",
+            "FDB813",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 115,
+        "globalteamid": 50000115,
+        "name": "Hawaii Rainbow Warriors",
+        "shortdisplayname": "HAWAII",
+        "schoolfullname": "University of Hawaii",
+        "mascot": "Warriors",
+        "school": "Hawaii",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "HI",
+        "clubcode": "HAW",
+        "hex_color": [
+            "024731",
+            "B1B1B1",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 6,
+        "globalteamid": 50000006,
+        "name": "Houston Cougars",
+        "shortdisplayname": "HOU",
+        "schoolfullname": "University of Houston",
+        "mascot": "Cougars",
+        "school": "Houston",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "HOU",
+        "clubcode": "HST",
+        "hex_color": [
+            "C90822",
+            "012259",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 73,
+        "globalteamid": 50000073,
+        "name": "Idaho Vandals",
+        "shortdisplayname": "IDAHO",
+        "schoolfullname": "University of Idaho",
+        "mascot": "Vandals",
+        "school": "Idaho",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "ID",
+        "clubcode": "IDA",
+        "hex_color": [
+            "000000",
+            "FFCC13",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 102,
+        "globalteamid": 50000102,
+        "name": "Illinois Fighting Illini",
+        "shortdisplayname": "ILL",
+        "schoolfullname": "University of Illinois",
+        "mascot": "Fighting Illini",
+        "school": "Illinois",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "IL",
+        "clubcode": "ILL",
+        "hex_color": [
+            "F5873C",
+            "1B4178",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 93,
+        "globalteamid": 50000093,
+        "name": "Indiana Hoosiers",
+        "shortdisplayname": "IND",
+        "schoolfullname": "Indiana University",
+        "mascot": "Hoosiers",
+        "school": "Indiana",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "IN",
+        "clubcode": "IND",
+        "hex_color": [
+            "A82B3D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 91,
+        "globalteamid": 50000091,
+        "name": "Iowa Hawkeyes",
+        "shortdisplayname": "IOWA",
+        "schoolfullname": "University of Iowa",
+        "mascot": "Hawkeyes",
+        "school": "Iowa",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "IA",
+        "clubcode": "IOW",
+        "hex_color": [
+            "000000",
+            "FFD700",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 110,
+        "globalteamid": 50000110,
+        "name": "Iowa State Cyclones",
+        "shortdisplayname": "IOWAST",
+        "schoolfullname": "Iowa State University",
+        "mascot": "Cyclones",
+        "school": "Iowa State",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "ISU",
+        "clubcode": "IAS",
+        "hex_color": [
+            "840A2C",
+            "FEC938",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 106,
+        "globalteamid": 50000106,
+        "name": "Kansas Jayhawks",
+        "shortdisplayname": "KAN",
+        "schoolfullname": "University of Kansas",
+        "mascot": "Jayhawks",
+        "school": "Kansas",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "KS",
+        "clubcode": "KAN",
+        "hex_color": [
+            "006AB5",
+            "FFFFFF",
+            "FFD204",
+            "E51837"
+        ]
+    },
+    {
+        "teamid": 112,
+        "globalteamid": 50000112,
+        "name": "Kansas State Wildcats",
+        "shortdisplayname": "KANST",
+        "schoolfullname": "Kansas State University",
+        "mascot": "Wildcats",
+        "school": "Kansas State",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "KST",
+        "clubcode": "KAN",
+        "hex_color": [
+            "633194",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 178,
+        "globalteamid": 50000178,
+        "name": "Kent State Golden Flashes",
+        "shortdisplayname": "KENTST",
+        "schoolfullname": "Kent State University",
+        "mascot": "Golden Flashes",
+        "school": "Kent State",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "KEN",
+        "clubcode": "KST",
+        "hex_color": [
+            "131149",
+            "F7BD0A",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 268,
+        "globalteamid": 50000268,
+        "name": "Kentucky Wildcats",
+        "shortdisplayname": "UK",
+        "schoolfullname": "University of Kentucky",
+        "mascot": "Wildcats",
+        "school": "Kentucky",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "KY",
+        "clubcode": "KEN",
+        "hex_color": [
+            "003399",
+            "FFFFFF",
+            "EBEBE4"
+        ]
+    },
+    {
+        "teamid": 269,
+        "globalteamid": 50000269,
+        "name": "LSU Tigers",
+        "shortdisplayname": "LSU",
+        "schoolfullname": "Louisiana State University",
+        "mascot": "Fighting Tigers",
+        "school": "Louisiana State",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "LSU",
+        "clubcode": "LOU",
+        "hex_color": [
+            "33297B",
+            "FDB827",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 137,
+        "globalteamid": 50000137,
+        "name": "Louisiana Tech Bulldogs",
+        "shortdisplayname": "LOUTCH",
+        "schoolfullname": "Louisiana Tech University",
+        "mascot": "Bulldogs",
+        "school": "Louisiana Tech",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "LTU",
+        "clubcode": "LOU",
+        "hex_color": [
+            "006AB5",
+            "ED1C24",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 324,
+        "globalteamid": 50000324,
+        "name": "Louisiana Ragin Cajuns",
+        "shortdisplayname": "LOULAF",
+        "schoolfullname": "University of Louisiana-Lafayette",
+        "mascot": "Ragin Cajuns",
+        "school": "Louisiana-Lafayette",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "ULL",
+        "clubcode": "LL",
+        "hex_color": [
+            "CE181E",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 326,
+        "globalteamid": 50000326,
+        "name": "UL Monroe Warhawks",
+        "shortdisplayname": "LAMON",
+        "schoolfullname": "University of Louisiana-Monroe",
+        "mascot": "Warhawks",
+        "school": "Louisiana-Monroe",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "ULM",
+        "clubcode": "LM",
+        "hex_color": [
+            "800029",
+            "BD955A"
+        ]
+    },
+    {
+        "teamid": 24,
+        "globalteamid": 50000024,
+        "name": "Louisville Cardinals",
+        "shortdisplayname": "LOU",
+        "schoolfullname": "University of Louisville",
+        "mascot": "Cardinals",
+        "school": "Louisville",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "LOU",
+        "clubcode": "UL",
+        "hex_color": [
+            "FD0B20",
+            "070707",
+            "FFFFFF",
+            "FFC010"
+        ]
+    },
+    {
+        "teamid": 136,
+        "globalteamid": 50000136,
+        "name": "Marshall Thundering Herd",
+        "shortdisplayname": "MARSH",
+        "schoolfullname": "Marshall University",
+        "mascot": "Thundering Herd",
+        "school": "Marshall",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "MAR",
+        "clubcode": "MU",
+        "hex_color": [
+            "01592F",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 92,
+        "globalteamid": 50000092,
+        "name": "Maryland Terrapins",
+        "shortdisplayname": "MARY",
+        "schoolfullname": "University of Maryland",
+        "mascot": "Terrapins",
+        "school": "Maryland",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "MD",
+        "clubcode": "MAR",
+        "hex_color": [
+            "D5002B",
+            "FFFFFF",
+            "000000",
+            "C68746"
+        ]
+    },
+    {
+        "teamid": 55,
+        "globalteamid": 50000055,
+        "name": "UMass Minutemen",
+        "shortdisplayname": "UMASS",
+        "schoolfullname": "University of Massachusetts",
+        "mascot": "Minutemen",
+        "school": "Massachusetts",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "MA",
+        "clubcode": "UM",
+        "hex_color": [
+            "881C1C",
+            "212721"
+        ]
+    },
+    {
+        "teamid": 7,
+        "globalteamid": 50000007,
+        "name": "Memphis Tigers",
+        "shortdisplayname": "MPHS",
+        "schoolfullname": "University of Memphis",
+        "mascot": "Tigers",
+        "school": "Memphis",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "MEM",
+        "clubcode": "UM",
+        "hex_color": [
+            "2A2A9B",
+            "FFFFFF",
+            "FEC003"
+        ]
+    },
+    {
+        "teamid": 23,
+        "globalteamid": 50000023,
+        "name": "Miami Hurricanes",
+        "shortdisplayname": "MIA",
+        "schoolfullname": "University of Miami (Fla.)",
+        "mascot": "Hurricanes",
+        "school": "Miami",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "MIA",
+        "clubcode": "U",
+        "hex_color": [
+            "F47321",
+            "005030"
+        ]
+    },
+    {
+        "teamid": 182,
+        "globalteamid": 50000182,
+        "name": "Miami (OH) RedHawks",
+        "shortdisplayname": "MIAOH",
+        "schoolfullname": "Miami University (Ohio)",
+        "mascot": "Redhawks",
+        "school": "Miami (OH)",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "MIA",
+        "clubcode": "MOH",
+        "hex_color": [
+            "C60808",
+            "080808",
+            "FFFFFF",
+            "3F7D91"
+        ]
+    },
+    {
+        "teamid": 97,
+        "globalteamid": 50000097,
+        "name": "Michigan State Spartans",
+        "shortdisplayname": "MST",
+        "schoolfullname": "Michigan State University",
+        "mascot": "Spartans",
+        "school": "Michigan State",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "MIC",
+        "clubcode": "MST",
+        "hex_color": [
+            "1C453A",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 95,
+        "globalteamid": 50000095,
+        "name": "Michigan Wolverines",
+        "shortdisplayname": "MICH",
+        "schoolfullname": "University of Michigan",
+        "mascot": "Wolverines",
+        "school": "Michigan",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "MI",
+        "clubcode": "MIC",
+        "hex_color": [
+            "272341",
+            "FAC417",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 135,
+        "globalteamid": 50000135,
+        "name": "Middle Tennessee Blue Raiders",
+        "shortdisplayname": "MTNST",
+        "schoolfullname": "Middle Tennessee State University",
+        "mascot": "Blue Raiders",
+        "school": "Middle Tennessee",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "MTS",
+        "clubcode": "MID",
+        "hex_color": [
+            "0079C2",
+            "FFFFFF",
+            "231F20"
+        ]
+    },
+    {
+        "teamid": 104,
+        "globalteamid": 50000104,
+        "name": "Minnesota Golden Gophers",
+        "shortdisplayname": "MINNST",
+        "schoolfullname": "University of Minnesota",
+        "mascot": "Golden Gophers",
+        "school": "Minnesota",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "MN",
+        "clubcode": "MIN",
+        "hex_color": [
+            "7F011B",
+            "FFF63E",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 274,
+        "globalteamid": 50000274,
+        "name": "Ole Miss Rebels",
+        "shortdisplayname": "MISS",
+        "schoolfullname": "University of Mississippi",
+        "mascot": "Rebels",
+        "school": "Mississippi",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "MS",
+        "clubcode": "MIS",
+        "hex_color": [
+            "CE1126",
+            "14213D"
+        ]
+    },
+    {
+        "teamid": 278,
+        "globalteamid": 50000278,
+        "name": "Mississippi State Bulldogs",
+        "shortdisplayname": "MSPST",
+        "schoolfullname": "Mississippi State University",
+        "mascot": "Bulldogs",
+        "school": "Mississippi State",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "MST",
+        "clubcode": "MIS",
+        "hex_color": [
+            "762123",
+            "D1D5D8",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 280,
+        "globalteamid": 50000280,
+        "name": "Missouri Tigers",
+        "shortdisplayname": "MISSR",
+        "schoolfullname": "University of Missouri",
+        "mascot": "Tigers",
+        "school": "Missouri",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "MO",
+        "clubcode": "MIS",
+        "hex_color": [
+            "231F20",
+            "E8AF11",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 258,
+        "globalteamid": 50000258,
+        "name": "Navy Midshipmen",
+        "shortdisplayname": "NAVY",
+        "schoolfullname": "United States Naval Academy",
+        "mascot": "Midshipmen",
+        "school": "Navy",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "NVY",
+        "clubcode": "NAV",
+        "hex_color": [
+            "131630",
+            "FCBA29",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 99,
+        "globalteamid": 50000099,
+        "name": "Nebraska Cornhuskers",
+        "shortdisplayname": "NEBR",
+        "schoolfullname": "University of Nebraska",
+        "mascot": "Cornhuskers",
+        "school": "Nebraska",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "NE",
+        "clubcode": "NEB",
+        "hex_color": [
+            "F20017",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 216,
+        "globalteamid": 50000216,
+        "name": "Nevada Wolf Pack",
+        "shortdisplayname": "NEVADA",
+        "schoolfullname": "University of Nevada",
+        "mascot": "Wolf Pack",
+        "school": "Nevada",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "NV",
+        "clubcode": "NEV",
+        "hex_color": [
+            "153E5F",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 218,
+        "globalteamid": 50000218,
+        "name": "UNLV Rebels",
+        "shortdisplayname": "UNLV",
+        "schoolfullname": "University of Nevada-Las Vegas",
+        "mascot": "Rebels",
+        "school": "Nevada-Las Vegas",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "NLV",
+        "clubcode": "NEV",
+        "hex_color": [
+            "231E1F",
+            "D50026",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 214,
+        "globalteamid": 50000214,
+        "name": "New Mexico Lobos",
+        "shortdisplayname": "NMX",
+        "schoolfullname": "University of New Mexico",
+        "mascot": "Lobos",
+        "school": "New Mexico",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "NM",
+        "clubcode": "UNM",
+        "hex_color": [
+            "000000",
+            "D41045",
+            "FFFFFF",
+            "C4C4C4"
+        ]
+    },
+    {
+        "teamid": 344,
+        "globalteamid": 50000344,
+        "name": "New Mexico State Aggies",
+        "shortdisplayname": "NMXST",
+        "schoolfullname": "New Mexico State University",
+        "mascot": "Aggies",
+        "school": "New Mexico State",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "NMS",
+        "clubcode": "NM",
+        "hex_color": [
+            "891216",
+            "221E1F",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 33,
+        "globalteamid": 50000033,
+        "name": "NC State Wolfpack",
+        "shortdisplayname": "NCST",
+        "schoolfullname": "North Carolina State University",
+        "mascot": "Wolfpack",
+        "school": "North Carolina State",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "NCS",
+        "clubcode": "NC",
+        "hex_color": [
+            "CC0000",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 21,
+        "globalteamid": 50000021,
+        "name": "North Carolina Tar Heels",
+        "shortdisplayname": "NCAR",
+        "schoolfullname": "University of North Carolina",
+        "mascot": "Tar Heels",
+        "school": "North Carolina",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "NC",
+        "clubcode": "UNC",
+        "hex_color": [
+            "98BFE5",
+            "FFFFFF",
+            "00275D"
+        ]
+    },
+    {
+        "teamid": 141,
+        "globalteamid": 50000141,
+        "name": "North Texas Mean Green",
+        "shortdisplayname": "NTX",
+        "schoolfullname": "University of North Texas",
+        "mascot": "Mean Green",
+        "school": "North Texas",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "UNT",
+        "clubcode": "NT",
+        "hex_color": [
+            "00853D",
+            "FFFFFF",
+            "2D2327"
+        ]
+    },
+    {
+        "teamid": 186,
+        "globalteamid": 50000186,
+        "name": "Northern Illinois Huskies",
+        "shortdisplayname": "NILL",
+        "schoolfullname": "Northern Illinois University",
+        "mascot": "Huskies",
+        "school": "Northern Illinois",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "NIL",
+        "clubcode": "NIU",
+        "hex_color": [
+            "F1122C",
+            "0F0D0D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 100,
+        "globalteamid": 50000100,
+        "name": "Northwestern Wildcats",
+        "shortdisplayname": "NW",
+        "schoolfullname": "Northwestern University",
+        "mascot": "Wildcats",
+        "school": "Northwestern",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "NW",
+        "clubcode": "NWU",
+        "hex_color": [
+            "393996",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 25,
+        "globalteamid": 50000025,
+        "name": "Notre Dame Fighting Irish",
+        "shortdisplayname": "ND",
+        "schoolfullname": "University of Notre Dame",
+        "mascot": "Fighting Irish",
+        "school": "Notre Dame",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "ND",
+        "clubcode": "UND",
+        "hex_color": [
+            "00122B",
+            "BAA008",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 180,
+        "globalteamid": 50000180,
+        "name": "Ohio Bobcats",
+        "shortdisplayname": "OHIO",
+        "schoolfullname": "Ohio University",
+        "mascot": "Bobcats",
+        "school": "Ohio",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "OU",
+        "clubcode": "OHU",
+        "hex_color": [
+            "295A29",
+            "FFFFFF",
+            "E7CEAD",
+            "313139"
+        ]
+    },
+    {
+        "teamid": 98,
+        "globalteamid": 50000098,
+        "name": "Ohio State Buckeyes",
+        "shortdisplayname": "OHIOST",
+        "schoolfullname": "Ohio State University",
+        "mascot": "Buckeyes",
+        "school": "Ohio State",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "OSU",
+        "clubcode": "OS",
+        "hex_color": [
+            "DE3121",
+            "FFFFFF",
+            "080808",
+            "C5CCCF"
+        ]
+    },
+    {
+        "teamid": 105,
+        "globalteamid": 50000105,
+        "name": "Oklahoma Sooners",
+        "shortdisplayname": "OKL",
+        "schoolfullname": "University of Oklahoma",
+        "mascot": "Sooners",
+        "school": "Oklahoma",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "OK",
+        "clubcode": "UOK",
+        "hex_color": [
+            "BA0034",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 113,
+        "globalteamid": 50000113,
+        "name": "Oklahoma State Cowboys",
+        "shortdisplayname": "OKST",
+        "schoolfullname": "Oklahoma State University",
+        "mascot": "Cowboys",
+        "school": "Oklahoma State",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "OSU",
+        "clubcode": "OKS",
+        "hex_color": [
+            "FF6500",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 113,
+        "globalteamid": 50000113,
+        "name": "Oklahoma State Cowboys",
+        "shortdisplayname": "OKST",
+        "schoolfullname": "University of Oregon",
+        "mascot": "Ducks",
+        "school": "Oregon",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "OR",
+        "clubcode": "ORE",
+        "hex_color": [
+            "FF6500",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 252,
+        "globalteamid": 50000252,
+        "name": "Oregon State Beavers",
+        "shortdisplayname": "OREGST",
+        "schoolfullname": "Oregon State University",
+        "mascot": "Beavers",
+        "school": "Oregon State",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "ORE",
+        "clubcode": "OSU",
+        "hex_color": [
+            "000203",
+            "AE3800",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 101,
+        "globalteamid": 50000101,
+        "name": "Penn State Nittany Lions",
+        "shortdisplayname": "PENNST",
+        "schoolfullname": "Penn State University",
+        "mascot": "Nittany Lions",
+        "school": "Penn State",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "PSU",
+        "clubcode": "PEN",
+        "hex_color": [
+            "00265D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 28,
+        "globalteamid": 50000028,
+        "name": "Pittsburgh Panthers",
+        "shortdisplayname": "PITT",
+        "schoolfullname": "University of Pittsburgh",
+        "mascot": "Panthers",
+        "school": "Pittsburgh",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "PIT",
+        "clubcode": "UP",
+        "hex_color": [
+            "003263",
+            "FFFFFF",
+            "242021"
+        ]
+    },
+    {
+        "teamid": 94,
+        "globalteamid": 50000094,
+        "name": "Purdue Boilermakers",
+        "shortdisplayname": "PUR",
+        "schoolfullname": "Purdue University",
+        "mascot": "Boilermakers",
+        "school": "Purdue",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "PUR",
+        "clubcode": "PU",
+        "hex_color": [
+            "000000",
+            "B89D29",
+            "FFFFFF",
+            "9FA3A6"
+        ]
+    },
+    {
+        "teamid": 146,
+        "globalteamid": 50000146,
+        "name": "Rice Owls",
+        "shortdisplayname": "RICE",
+        "schoolfullname": "Rice University",
+        "mascot": "Owls",
+        "school": "Rice",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "RIC",
+        "clubcode": "RU",
+        "hex_color": [
+            "003D7D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 103,
+        "globalteamid": 50000103,
+        "name": "Rutgers Scarlet Knights",
+        "shortdisplayname": "RUTGER",
+        "schoolfullname": "Rutgers University",
+        "mascot": "Scarlet Knights",
+        "school": "Rutgers",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "RUT",
+        "clubcode": "RU",
+        "hex_color": [
+            "EE363D",
+            "FFFFFF",
+            "0E1112"
+        ]
+    },
+    {
+        "teamid": 212,
+        "globalteamid": 50000212,
+        "name": "San Diego State Aztecs",
+        "shortdisplayname": "SDST",
+        "schoolfullname": "San Diego State University",
+        "mascot": "Aztecs",
+        "school": "San Diego State",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "SDS",
+        "clubcode": "SD",
+        "hex_color": [
+            "231F20",
+            "BF2C37",
+            "7C6642",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 222,
+        "globalteamid": 50000222,
+        "name": "San Jose State Spartans",
+        "shortdisplayname": "SJST",
+        "schoolfullname": "San Jose State University",
+        "mascot": "Spartans",
+        "school": "San Jose State",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "SJS",
+        "clubcode": "SJ",
+        "hex_color": [
+            "005893",
+            "FFC021",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 330,
+        "globalteamid": 50000330,
+        "name": "South Alabama Jaguars",
+        "shortdisplayname": "SALA",
+        "schoolfullname": "University of South Alabama",
+        "mascot": "Jaguars",
+        "school": "South Alabama",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "USA",
+        "clubcode": "SA",
+        "hex_color": [
+            "003E7E",
+            "FFFFFF",
+            "D11241"
+        ]
+    },
+    {
+        "teamid": 267,
+        "globalteamid": 50000267,
+        "name": "South Carolina Gamecocks",
+        "shortdisplayname": "SC",
+        "schoolfullname": "University of South Carolina",
+        "mascot": "Gamecocks",
+        "school": "South Carolina",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "SC",
+        "clubcode": "USC",
+        "hex_color": [
+            "CD0000",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 11,
+        "globalteamid": 50000011,
+        "name": "South Florida Bulls",
+        "shortdisplayname": "SFL",
+        "schoolfullname": "University of South Florida",
+        "mascot": "Bulls",
+        "school": "South Florida",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "USF",
+        "clubcode": "SFL",
+        "hex_color": [
+            "004A36",
+            "FFFFFF",
+            "A08B4D"
+        ]
+    },
+    {
+        "teamid": 246,
+        "globalteamid": 50000246,
+        "name": "USC Trojans",
+        "shortdisplayname": "USC",
+        "schoolfullname": "University of Southern California",
+        "mascot": "Trojans",
+        "school": "Southern California",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "USC",
+        "clubcode": "SC",
+        "hex_color": [
+            "AE2531",
+            "FFAC33",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 1,
+        "globalteamid": 50000001,
+        "name": "SMU Mustangs",
+        "shortdisplayname": "SMU",
+        "schoolfullname": "Southern Methodist University",
+        "mascot": "Mustangs",
+        "school": "Southern Methodist",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "SMU",
+        "clubcode": "SOU",
+        "hex_color": [
+            "354CA1",
+            "CC0035"
+        ]
+    },
+    {
+        "teamid": 143,
+        "globalteamid": 50000143,
+        "name": "Southern Miss Golden Eagles",
+        "shortdisplayname": "SOUMIS",
+        "schoolfullname": "University of Southern Mississippi",
+        "mascot": "Golden Eagles",
+        "school": "Southern Mississippi",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "USM",
+        "clubcode": "SM",
+        "hex_color": [
+            "FFAA3C",
+            "201C1D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 254,
+        "globalteamid": 50000254,
+        "name": "Stanford Cardinal",
+        "shortdisplayname": "STAN",
+        "schoolfullname": "Stanford University",
+        "mascot": "Cardinal",
+        "school": "Stanford",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "STA",
+        "clubcode": "SU",
+        "hex_color": [
+            "A80532",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 30,
+        "globalteamid": 50000030,
+        "name": "Syracuse Orange",
+        "shortdisplayname": "SYRA",
+        "schoolfullname": "Syracuse University",
+        "mascot": "Orange",
+        "school": "Syracuse",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "SYR",
+        "clubcode": "SU",
+        "hex_color": [
+            "002D62",
+            "F37321",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 2,
+        "globalteamid": 50000002,
+        "name": "Temple Owls",
+        "shortdisplayname": "TEMPL",
+        "schoolfullname": "Temple University",
+        "mascot": "Owls",
+        "school": "Temple",
+        "conference": "Big East",
+        "division": "1A",
+        "tricode": "TEM",
+        "clubcode": "TU",
+        "hex_color": [
+            "A80532",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 277,
+        "globalteamid": 50000277,
+        "name": "Tennessee Volunteers",
+        "shortdisplayname": "TENN",
+        "schoolfullname": "University of Tennessee",
+        "mascot": "Volunteers",
+        "school": "Tennessee",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "TN",
+        "clubcode": "TEN",
+        "hex_color": [
+            "EE9627",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 270,
+        "globalteamid": 50000270,
+        "name": "Texas A&M Aggies",
+        "shortdisplayname": "TXAM",
+        "schoolfullname": "Texas A&M University",
+        "mascot": "Aggies",
+        "school": "Texas A&amp;M",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "TAM",
+        "clubcode": "TEX",
+        "hex_color": [
+            "5C0025",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 114,
+        "globalteamid": 50000114,
+        "name": "TCU Horned Frogs",
+        "shortdisplayname": "TCU",
+        "schoolfullname": "Texas Christian University",
+        "mascot": "Horned Frogs",
+        "school": "Texas Christian",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "TCU",
+        "clubcode": "TEX",
+        "hex_color": [
+            "3C377D",
+            "EBEBEB",
+            "FFFFFF",
+            "1E1B1C"
+        ]
+    },
+    {
+        "teamid": 109,
+        "globalteamid": 50000109,
+        "name": "Texas Longhorns",
+        "shortdisplayname": "TX",
+        "schoolfullname": "University of Texas",
+        "mascot": "Longhorns",
+        "school": "Texas",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "TX",
+        "clubcode": "TEX",
+        "hex_color": [
+            "EE7524",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 332,
+        "globalteamid": 50000332,
+        "name": "Texas State Bobcats",
+        "shortdisplayname": "TXST",
+        "schoolfullname": "Texas State University",
+        "mascot": "Bobcats",
+        "school": "Texas State",
+        "conference": "Independent",
+        "division": "1A",
+        "tricode": "TSU",
+        "clubcode": "TEX",
+        "hex_color": [
+            "744143",
+            "9B8449",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 111,
+        "globalteamid": 50000111,
+        "name": "Texas Tech Red Raiders",
+        "shortdisplayname": "TXTECH",
+        "schoolfullname": "Texas Tech University",
+        "mascot": "Red Raiders",
+        "school": "Texas Tech",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "TTU",
+        "clubcode": "TEX",
+        "hex_color": [
+            "C80025",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 139,
+        "globalteamid": 50000139,
+        "name": "UTEP Miners",
+        "shortdisplayname": "UTEP",
+        "schoolfullname": "University of Texas-El Paso",
+        "mascot": "Miners",
+        "school": "Texas-El Paso",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "TEP",
+        "clubcode": "TEL",
+        "hex_color": [
+            "002843",
+            "F9783B",
+            "FFFFFF",
+            "C2BFBC"
+        ]
+    },
+    {
+        "teamid": 183,
+        "globalteamid": 50000183,
+        "name": "Toledo Rockets",
+        "shortdisplayname": "TOLEDO",
+        "schoolfullname": "University of Toledo",
+        "mascot": "Rockets",
+        "school": "Toledo",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "TOL",
+        "clubcode": "UT",
+        "hex_color": [
+            "00488F",
+            "FFD51D",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 333,
+        "globalteamid": 50000333,
+        "name": "Troy Trojans",
+        "shortdisplayname": "TROY",
+        "schoolfullname": "Troy University",
+        "mascot": "Trojans",
+        "school": "Troy",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "TRY",
+        "clubcode": "TRO",
+        "hex_color": [
+            "AE0210",
+            "FFFFFF",
+            "6E7272",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 10,
+        "globalteamid": 50000010,
+        "name": "Tulane Green Wave",
+        "shortdisplayname": "TULANE",
+        "schoolfullname": "Tulane University",
+        "mascot": "Green Wave",
+        "school": "Tulane",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "TUL",
+        "clubcode": "TU",
+        "hex_color": [
+            "005837",
+            "FFFFFF",
+            "6EA396",
+            "00A6eb"
+        ]
+    },
+    {
+        "teamid": 5,
+        "globalteamid": 50000005,
+        "name": "Tulsa Golden Hurricane",
+        "shortdisplayname": "TULSA",
+        "schoolfullname": "University of Tulsa",
+        "mascot": "Golden Hurricane",
+        "school": "Tulsa",
+        "conference": "Conference USA",
+        "division": "1A",
+        "tricode": "TUL",
+        "clubcode": "UT",
+        "hex_color": [
+            "004371",
+            "FFFFFF",
+            "E21721",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 220,
+        "globalteamid": 50000220,
+        "name": "Utah State Aggies",
+        "shortdisplayname": "UTAHST",
+        "schoolfullname": "Utah State University",
+        "mascot": "Aggies",
+        "school": "Utah State",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "USU",
+        "clubcode": "UTS",
+        "hex_color": [
+            "003263",
+            "FFFFFF",
+            "000000"
+        ]
+    },
+    {
+        "teamid": 248,
+        "globalteamid": 50000248,
+        "name": "Utah Utes",
+        "shortdisplayname": "UTAH",
+        "schoolfullname": "University of Utah",
+        "mascot": "Utes",
+        "school": "Utah",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "UT",
+        "clubcode": "UU",
+        "hex_color": [
+            "CD1041",
+            "231F20",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 147,
+        "globalteamid": 50000147,
+        "name": "UTSA Roadrunners",
+        "shortdisplayname": "UTSA",
+        "schoolfullname": "University of Texas - San Antonio",
+        "mascot": "Roadrunners",
+        "school": "UTSA",
+        "conference": "Western Athletic Conference",
+        "division": "1A",
+        "tricode": "TSA",
+        "clubcode": "A",
+        "hex_color": [
+            "002A5C",
+            "F47321",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 273,
+        "globalteamid": 50000273,
+        "name": "Vanderbilt Commodores",
+        "shortdisplayname": "VAND",
+        "schoolfullname": "Vanderbilt University",
+        "mascot": "Commodores",
+        "school": "Vanderbilt",
+        "conference": "Southeastern Conference",
+        "division": "1A",
+        "tricode": "VAN",
+        "clubcode": "VU",
+        "hex_color": [
+            "000000",
+            "BB8D09",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 22,
+        "globalteamid": 50000022,
+        "name": "Virginia Cavaliers",
+        "shortdisplayname": "VIR",
+        "schoolfullname": "University of Virginia",
+        "mascot": "Cavaliers",
+        "school": "Virginia",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "VA",
+        "clubcode": "VIR",
+        "hex_color": [
+            "00204E",
+            "EA4B0F",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 31,
+        "globalteamid": 50000031,
+        "name": "Virginia Tech Hokies",
+        "shortdisplayname": "VTECH",
+        "schoolfullname": "Virginia Polytechnic Institute and State University",
+        "mascot": "Hokies",
+        "school": "Virginia Polytechnic",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "VPI",
+        "clubcode": "VIR",
+        "hex_color": [
+            "74232D",
+            "FBB088",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 34,
+        "globalteamid": 50000034,
+        "name": "Wake Forest Demon Deacons",
+        "shortdisplayname": "WAKE",
+        "schoolfullname": "Wake Forest University",
+        "mascot": "Demon Deacons",
+        "school": "Wake Forest",
+        "conference": "Atlantic Coast Conference",
+        "division": "1A",
+        "tricode": "WF",
+        "clubcode": "WFU",
+        "hex_color": [
+            "000000",
+            "C49544",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 249,
+        "globalteamid": 50000249,
+        "name": "Washington Huskies",
+        "shortdisplayname": "WASH",
+        "schoolfullname": "University of Washington",
+        "mascot": "Huskies",
+        "school": "Washington",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "WA",
+        "clubcode": "UW",
+        "hex_color": [
+            "2B2F64",
+            "E8D4A3",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 256,
+        "globalteamid": 50000256,
+        "name": "Washington State Cougars",
+        "shortdisplayname": "WASHST",
+        "schoolfullname": "Washington State University",
+        "mascot": "Cougars",
+        "school": "Washington State",
+        "conference": "Pacific Twelve Conference",
+        "division": "1A",
+        "tricode": "WSC",
+        "clubcode": "WAS",
+        "hex_color": [
+            "97002F",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 107,
+        "globalteamid": 50000107,
+        "name": "West Virginia Mountaineers",
+        "shortdisplayname": "WVIR",
+        "schoolfullname": "West Virginia University",
+        "mascot": "Mountaineers",
+        "school": "West Virginia",
+        "conference": "Big Twelve Conference",
+        "division": "1A",
+        "tricode": "WV",
+        "clubcode": "WVU",
+        "hex_color": [
+            "FFC600",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 144,
+        "globalteamid": 50000144,
+        "name": "Western Kentucky Hilltoppers",
+        "shortdisplayname": "WKENT",
+        "schoolfullname": "Western Kentucky University",
+        "mascot": "Hilltoppers",
+        "school": "Western Kentucky",
+        "conference": "Sun Belt Conference",
+        "division": "1A",
+        "tricode": "WKU",
+        "clubcode": "WES",
+        "hex_color": [
+            "F32026",
+            "010000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 188,
+        "globalteamid": 50000188,
+        "name": "Western Michigan Broncos",
+        "shortdisplayname": "WMICH",
+        "schoolfullname": "Western Michigan University",
+        "mascot": "Broncos",
+        "school": "Western Michigan",
+        "conference": "Mid-American Conference",
+        "division": "1A",
+        "tricode": "WMU",
+        "clubcode": "WM",
+        "hex_color": [
+            "7E3E09",
+            "FFFFFF",
+            "B59966",
+            "1D1B1B"
+        ]
+    },
+    {
+        "teamid": 96,
+        "globalteamid": 50000096,
+        "name": "Wisconsin Badgers",
+        "shortdisplayname": "WISC",
+        "schoolfullname": "University of Wisconsin",
+        "mascot": "Badgers",
+        "school": "Wisconsin",
+        "conference": "Big Ten Conference",
+        "division": "1A",
+        "tricode": "WI",
+        "clubcode": "WIS",
+        "hex_color": [
+            "A00000",
+            "000000",
+            "FFFFFF"
+        ]
+    },
+    {
+        "teamid": 219,
+        "globalteamid": 50000219,
+        "name": "Wyoming Cowboys",
+        "shortdisplayname": "WYOM",
+        "schoolfullname": "University of Wyoming",
+        "mascot": "Cowboys",
+        "school": "Wyoming",
+        "conference": "Mountain West Conference",
+        "division": "1A",
+        "tricode": "WY",
+        "clubcode": "WYO",
+        "hex_color": [
+            "533B22",
+            "000000",
+            "FFFFFF"
+        ]
+    }
+]
